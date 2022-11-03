@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "item": "Ovo Frito"
+    },
+    {
+      "id": 2,
+      "item": "Miojo"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Ovo Frito",
+      "ingredients": [
+        "Ovo",
+        "Sal a gosto"
+      ],
+      "time": 5,
+      "steps": [
+        "Coloque óleo na frigideira.",
+        "Coloque a frigideira no fogo.",
+        "Quebre o ovo e insira na frigideira.",
+        "Coloca um salzinho pra ficar top.",
+        "Assim que fritar, manda pra dentro."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Miojo",
+      "ingredients": [
+        "Miojo"
+      ],
+      "time": 5,
+      "steps": [
+        "Ferver 300ml de água.",
+        "Inserir o miojo na água fervendo.",
+        "Deixar cozinhando por uns 3 minutos.",
+        "Mandar para dentro!"
+      ]
+    }
+  ]
+}
